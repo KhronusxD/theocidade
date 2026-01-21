@@ -6,21 +6,21 @@ import { FadeIn, StaggerContainer, StaggerItem } from "@/components/motion/fade-
 const courses = [
     {
         title: "Bacharelado em Teologia",
-        description: "Formação completa para pastores e líderes, com profundidade bíblica e prática ministerial.",
+        description: "Formação completa para pastores e líderes. Modalidade Semipresencial (4 anos e meio).",
         icon: GraduationCap,
-        href: "/cursos/bacharelado",
+        href: "/cursos/bacharelado-em-teologia",
     },
     {
-        title: "Pós-Graduação",
-        description: "Especialização em diversas áreas para aprofundamento teológico e ministerial.",
+        title: "Curso EAD (Em Breve)",
+        description: "Cursos de teologia à distância, com lançamento previsto para 2026.",
         icon: Book,
-        href: "/cursos/pos-graduacao",
+        href: "/cursos",
     },
     {
-        title: "Cursos Livres",
-        description: "Capacitação rápida e focada para obreiros, professores de EBD e membros de igreja.",
+        title: "Cursos Livres (Em Construção)",
+        description: "Capacitação rápida e focada para obreiros e membros de igreja. Aguarde novidades.",
         icon: Users,
-        href: "/cursos/livres",
+        href: "/cursos",
     },
 ];
 
