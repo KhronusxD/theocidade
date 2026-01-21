@@ -4,28 +4,34 @@ import { Mail } from "lucide-react";
 // Mock Data
 const team = [
     {
-        name: "Rev. João da Silva",
-        role: "Diretor Geral / Teologia Sistemática",
-        imageUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-        bio: "Doutor em Teologia (PhD) pelo Seminário X. Pastor há 20 anos, autor de diversos livros sobre eclesiologia.",
+        name: "Prof. Rômulo Monteiro",
+        role: "Teologia Bíblica (AT/NT), Sistemas Teológicos",
+        imageUrl: "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+        bio: "@pr_romulo_monteiro",
     },
     {
-        name: "Prof. Maria Oliveira",
-        role: "Coordenadora Acadêmica / Novo Testamento",
-        imageUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-        bio: "Mestre em Exegese Bíblica. Especialista em Grego Koinê e papirologia.",
+        name: "Prof. Aldair Queiroz",
+        role: "Prolegômenos, Sistemática e Hermenêutica",
+        imageUrl: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+        bio: "@praldairmpc",
     },
     {
-        name: "Rev. Pedro Santos",
-        role: "Teologia Histórica",
-        imageUrl: "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-        bio: "Especialista em Reforma Protestante e História da Igreja no Brasil.",
+        name: "Prof. Belmiro Junior",
+        role: "Antigo Testamento e Línguas Originais",
+        imageUrl: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+        bio: "@belmiro.junior1",
     },
     {
-        name: "Prof. Ana Costa",
-        role: "Aconselhamento Bíblico",
-        imageUrl: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-        bio: "Psicóloga e Teóloga, com foco em aconselhamento noutético e capelania.",
+        name: "Prof. Paulo Won",
+        role: "Introdução à Bíblia e Apòcrifos",
+        imageUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+        bio: "@won_paulo",
+    },
+    {
+        name: "Prof. Gustavo Arnoni",
+        role: "Introdução à Filosofia / Cristianismo e Cultura",
+        imageUrl: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
+        bio: "@arnonigustavo",
     },
 ]
 

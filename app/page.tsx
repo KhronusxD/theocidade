@@ -21,15 +21,15 @@ export default function Home() {
               </h2>
               <div className="space-y-4 text-lg text-gray-300">
                 <p>
-                  O Seminário Theocidade é comprometido com a inerrância bíblica e a teologia reformada.
+                  Já pensou em estudar teologia e desanimou por falta de tempo? Ou pensou em fazer um seminário online mas percebeu que mesmo com os diversos benefícios, você não teria a comunhão e a caminhada que estar em uma sala de aula proporciona?
                 </p>
                 <p>
-                  Oferecemos um ambiente que une piedade e erudição, preparando você não apenas intelectualmente, mas espiritualmente para os desafios do ministério contemporâneo.
+                  Foi pensando em sua capacitação Teológica que optamos pelo modelo de ensino semipresencial, onde mesmo com uma rotina corrida de trabalho e serviço na igreja local, você conseguirá estudar Teologia sem perder a qualidade e a profundidade acadêmica.
                 </p>
               </div>
               <div className="mt-8">
                 <Button asChild variant="secondary" size="lg">
-                  <Link href="/sobre">Conheça nossa História</Link>
+                  <Link href="/sobre">Conheça o Instituto</Link>
                 </Button>
               </div>
             </div>

@@ -15,6 +15,11 @@ export default function CursosPage() {
             />
 
             <div className="mx-auto max-w-7xl px-6 lg:px-8 py-24">
+                <div className="mx-auto max-w-3xl text-center mb-16">
+                    <p className="text-lg leading-8 text-gray-600">
+                        No Theocidade, nossa grade é bem ampla e diferente de seminários e faculdades tradicionais. Somos mais profundos e fiéis às escrituras, não deixando pontas soltas quanto ao que acreditamos.
+                    </p>
+                </div>
                 <StaggerContainer className="grid grid-cols-1 gap-x-8 gap-y-16 lg:grid-cols-3">
                     {courses.map((course) => (
                         <StaggerItem key={course.id} className="flex flex-col items-start justify-between border rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 group bg-white">
