@@ -24,14 +24,14 @@ export function Hero() {
                 <div className="mx-auto max-w-3xl text-center">
                     <div className="overflow-hidden">
                         <TextReveal
-                            text="Teologia para a Vida Inteira"
-                            className="text-4xl font-bold tracking-tight text-white sm:text-7xl font-serif block mb-6"
+                            text="Instituto de Teologia, Cultura e Vida Cristã"
+                            className="text-4xl font-bold tracking-tight text-white sm:text-6xl font-serif block mb-6"
                         />
                     </div>
 
                     <FadeIn delay={0.8} direction="up">
                         <p className="mt-4 text-lg leading-8 text-gray-200 shadow-black drop-shadow-md">
-                            Formando líderes comprometidos com a verdade bíblica e a excelência acadêmica no coração da Amazônia.
+                            Fortalecendo o testemunho cristão na cidade e no mundo através de uma formação teológica sólida e acessível.
                         </p>
                     </FadeIn>
 
