@@ -3,7 +3,7 @@ import { BookOpen, MapPin, Mail, Phone, Facebook, Instagram, Youtube } from "luc
 
 const footerNavigation = {
     solutions: [
-        { name: "Bacharelado em Teologia", href: "/cursos/bacharelado" },
+        { name: "Semipresencial", href: "/cursos/semipresencial" },
         { name: "Pós-Graduação", href: "/cursos/pos-graduacao" },
         { name: "Cursos Livres", href: "/cursos/livres" },
         { name: "EAD", href: "/ead" },

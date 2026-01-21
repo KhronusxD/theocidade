@@ -21,8 +21,8 @@ export interface Course {
 export const courses: Course[] = [
     {
         id: "1",
-        slug: "bacharelado-em-teologia",
-        title: "Bacharelado em Teologia",
+        slug: "semipresencial",
+        title: "Semipresencial",
         category: "Bacharelado",
         description: "Formação completa para o ministério pastoral e liderança cristã. Modalidade Semipresencial.",
         duration: "4 anos e meio",
@@ -30,7 +30,7 @@ export const courses: Course[] = [
         price: "R$ 350,00/mês",
         startDate: "Fevereiro 2026",
         image: "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?q=80&w=2670&auto=format&fit=crop",
-        overview: "O curso de Bacharelado em Teologia do Theocidade opta pelo modelo semipresencial para permitir que você estude sem perder a qualidade. Nossa grade é ampla e diferenciada, focada em fidelidade às Escrituras e sem deixar pontas soltas.",
+        overview: "O curso Semipresencial do Theocidade opta pelo modelo híbrido para permitir que você estude sem perder a qualidade. Nossa grade é ampla e diferenciada, focada em fidelidade às Escrituras e sem deixar pontas soltas.",
         curriculum: [
             {
                 semester: "1º Semestre",

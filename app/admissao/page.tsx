@@ -58,7 +58,7 @@ export default function AdmissaoPage() {
                             <div className="space-y-4">
                                 <label htmlFor="course" className="block text-sm font-medium leading-6 text-gray-900">Curso Desejado</label>
                                 <select id="course" className="mt-2 block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 focus:ring-2 focus:ring-inset focus:ring-primary sm:text-sm sm:leading-6 pl-3">
-                                    <option>Bacharelado em Teologia</option>
+                                    <option>Semipresencial</option>
                                     <option>Pós-Graduação em Exposição Bíblica</option>
                                     <option>Teologia para Leigos</option>
                                 </select>

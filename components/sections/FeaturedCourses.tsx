@@ -5,10 +5,10 @@ import { FadeIn, StaggerContainer, StaggerItem } from "@/components/motion/fade-
 
 const courses = [
     {
-        title: "Bacharelado em Teologia",
+        title: "Semipresencial",
         description: "Formação completa para pastores e líderes. Modalidade Semipresencial (4 anos e meio).",
         icon: GraduationCap,
-        href: "/cursos/bacharelado-em-teologia",
+        href: "/cursos/semipresencial",
     },
     {
         title: "Curso EAD (Em Breve)",
